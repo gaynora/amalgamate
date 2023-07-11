@@ -1,2 +1,2 @@
 # amalgamate
-Geoprocessing for amalgamating spatial data
+Amalgamating spatial vector geometries from multiple inouts.
